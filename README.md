@@ -46,6 +46,6 @@ The analysis provides valuable insights into the IMDB movie landscape. We observ
 - Specific directors (Sujoy Ghosh, Ozgur Bakar, Luke Scott) and actors (Andrew Lockington, Sami Bouajila) are consistently associated with highly-rated films.
 ## Recommendations:
 - Further Genre Exploration: Investigate the average worldwide gross income for different genres to understand their commercial viability.
-- Detailed Talent Analysis: Explore the genre preferences and critical success of top actors and directors to identify niche strengths or broader appeal.
+- Detailed Talent Analysis: Explore the genre preferences and critical success of top actors and directors to identify their specialized expertise or broader appeal.
 - Temporal Analysis of Ratings: Examine how average and median ratings fluctuate over time for different genres or production companies to identify evolving audience preferences.
 
