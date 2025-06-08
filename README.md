@@ -3,16 +3,7 @@ This report presents an analysis of the IMDB movie database, focusing on key tre
 
 ## 2. Data Overview and Quality Check
 The analysis utilized six tables: director_mapping, genre, movie, names, ratings, and role_mapping.
-Null Value Check (Movie Table): A comprehensive check for null values in the movie table revealed the following:
-•	title_nulls: 0
-•	year_nulls: 0
-•	duration_nulls: 0
-•	date_published_nulls: 0
-•	country_nulls: Significant number of nulls observed, indicating missing country information for some movies.
-•	worldwide_gross_income_nulls: Significant number of nulls observed, indicating missing income data for many entries.
-•	languages_nulls: Significant number of nulls observed.
-•	production_company_nulls: Significant number of nulls observed.
-Implication: While core movie details like title, year, duration, and publication date are complete, missing data in country, worldwide_gross_income, languages, and production_company might affect analyses requiring these fields, potentially leading to incomplete insights if not handled (e.g., by excluding nulls or assuming a default).
+
 
 ## 3. Key Findings
 #### 3.1 Movie Release Trends
